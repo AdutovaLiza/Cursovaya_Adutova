@@ -1,0 +1,64 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Advanced Lighting.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  glad.c
+  main.cpp
+C:\Users\Lenovo-PC\source\repos\6 semester\Graphics\Cursovaya_Adutova\Cursovaya\Hello_Window\shader.h(61,40): warning C4101: 'e': unreferenced local variable
+C:\Users\Lenovo-PC\source\repos\6 semester\Graphics\Cursovaya_Adutova\Cursovaya\Hello_Window\mesh.h(90,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Lenovo-PC\source\repos\6 semester\Graphics\Cursovaya_Adutova\Cursovaya\Hello_Window\main.cpp(291,30): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Lenovo-PC\source\repos\6 semester\Graphics\Cursovaya_Adutova\Cursovaya\Hello_Window\main.cpp(599,79): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Lenovo-PC\source\repos\6 semester\Graphics\Cursovaya_Adutova\Cursovaya\Hello_Window\main.cpp(569,37): warning C4101: 'vboNormals': unreferenced local variable
+C:\Users\Lenovo-PC\source\repos\6 semester\Graphics\Cursovaya_Adutova\Cursovaya\Hello_Window\main.cpp(773,26): warning C4267: 'return': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Lenovo-PC\source\repos\6 semester\Graphics\Cursovaya_Adutova\Cursovaya\Hello_Window\main.cpp(782,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo-PC\source\repos\6 semester\Graphics\Cursovaya_Adutova\Cursovaya\Hello_Window\main.cpp(794,29): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Lenovo-PC\source\repos\6 semester\Graphics\Cursovaya_Adutova\Cursovaya\Hello_Window\main.cpp(796,29): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Lenovo-PC\source\repos\6 semester\Graphics\Cursovaya_Adutova\Cursovaya\Hello_Window\main.cpp(800,29): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Lenovo-PC\source\repos\6 semester\Graphics\Cursovaya_Adutova\Cursovaya\Hello_Window\main.cpp(802,29): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Lenovo-PC\source\repos\6 semester\Graphics\Cursovaya_Adutova\Cursovaya\Hello_Window\main.cpp(805,59): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Lenovo-PC\source\repos\6 semester\Graphics\Cursovaya_Adutova\Cursovaya\Hello_Window\main.cpp(806,59): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Lenovo-PC\source\repos\6 semester\Graphics\Cursovaya_Adutova\Cursovaya\Hello_Window\main.cpp(807,59): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Lenovo-PC\source\repos\6 semester\Graphics\Cursovaya_Adutova\Cursovaya\Hello_Window\main.cpp(809,59): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Lenovo-PC\source\repos\6 semester\Graphics\Cursovaya_Adutova\Cursovaya\Hello_Window\main.cpp(810,59): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Lenovo-PC\source\repos\6 semester\Graphics\Cursovaya_Adutova\Cursovaya\Hello_Window\main.cpp(811,59): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\Lenovo-PC\source\repos\6 semester\Graphics\Cursovaya_Adutova\Cursovaya\Hello_Window\main.cpp(882,26): warning C4267: 'return': conversion from 'size_t' to 'GLsizei', possible loss of data
+  stb_image.cpp
+  Generating Code...
+  Hello_Window.vcxproj -> C:\Users\Lenovo-PC\source\repos\6 semester\Graphics\Cursovaya_Adutova\Cursovaya\x64\Debug\Cursovaya_Adutova.exe

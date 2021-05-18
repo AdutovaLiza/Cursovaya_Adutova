@@ -146,10 +146,10 @@ int main()
     glEnable(GL_DEPTH_TEST);
 
     // Компилирование шейдерной программы
-    Shader shader("../7.bloom.vs", "../7.bloom.fs");
-    Shader shaderLight("../7.bloom.vs", "../7.light.fs");
-    Shader shaderBlur("../7.blur.vs", "../7.blur.fs");
-    Shader shaderBloomFinal("../7.bloom_final.vs", "../7.bloom_final.fs");
+    Shader shader("../bloom.vs", "../bloom.fs");
+    Shader shaderLight("../bloom.vs", "../light.fs");
+    Shader shaderBlur("../blur.vs", "../blur.fs");
+    Shader shaderBloomFinal("../bloom_final.vs", "../bloom_final.fs");
     
     // Загрузка текстур
     unsigned int woodTexture = loadTexture("../resources/textures/wood.png",true); 
